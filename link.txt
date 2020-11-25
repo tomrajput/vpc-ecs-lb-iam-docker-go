@@ -1,0 +1,9 @@
+
+https://section411.com/2019/07/hello-world/
+
+Aftwe some time ...  let the container and app start...
+
+http://sun-api-lb-1511804499.us-west-1.elb.amazonaws.com
+Results:
+{"ok":true,"date":"2020-11-25","sunrise":"12:28 PM","sunset":"9:59 PM","solar_noon":"5:14 PM"}
+
